@@ -1,0 +1,10 @@
+D:\教材\myproject\Analog_Bacnet_lift\bin\Debug\Analog_Bacnet_lift.exe.config
+D:\教材\myproject\Analog_Bacnet_lift\bin\Debug\Analog_Bacnet_lift.exe
+D:\教材\myproject\Analog_Bacnet_lift\bin\Debug\Analog_Bacnet_lift.pdb
+D:\教材\myproject\Analog_Bacnet_lift\obj\Debug\Analog_Bacnet_lift.csprojResolveAssemblyReference.cache
+D:\教材\myproject\Analog_Bacnet_lift\obj\Debug\Analog_Bacnet_lift.Properties.Resources.resources
+D:\教材\myproject\Analog_Bacnet_lift\obj\Debug\Analog_Bacnet_lift.csproj.GenerateResource.Cache
+D:\教材\myproject\Analog_Bacnet_lift\obj\Debug\Analog_Bacnet_lift.exe
+D:\教材\myproject\Analog_Bacnet_lift\obj\Debug\Analog_Bacnet_lift.pdb
+D:\教材\myproject\Analog_Bacnet_lift\obj\Debug\Analog_Bacnet_lift.Form_main.resources
+D:\教材\myproject\Analog_Bacnet_lift\obj\Debug\Analog_Bacnet_lift.Form_New_Lift.resources
